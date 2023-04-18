@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistencia.CentralDeInfomacoes>
+  <todosAlunos>
+    <modelos.Aluno>
+      <nome>joao</nome>
+      <matricula>202015020005</matricula>
+      <mensalidade>70.0</mensalidade>
+      <telefoneResponsavel>83989015497</telefoneResponsavel>
+      <nomeResponsavel>ele mesmo</nomeResponsavel>
+      <endereco>
+        <rua>rua de baixo</rua>
+        <numero>s/n</numero>
+        <cidade>monteiro</cidade>
+        <bairro>centro</bairro>
+      </endereco>
+    </modelos.Aluno>
+    <modelos.Aluno>
+      <nome>Jose</nome>
+      <matricula>202015020019</matricula>
+      <mensalidade>70.0</mensalidade>
+      <telefoneResponsavel>3452139859058</telefoneResponsavel>
+      <nomeResponsavel>o propio</nomeResponsavel>
+      <endereco>
+        <rua>vjernk</rua>
+        <numero>w</numero>
+        <cidade>degvwr</cidade>
+        <bairro>wvew</bairro>
+      </endereco>
+    </modelos.Aluno>
+  </todosAlunos>
+  <alunosQueNaoPagou/>
+  <alunosQueJaPagou/>
+</persistencia.CentralDeInfomacoes>

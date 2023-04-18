@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/iText-5.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/xom-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/xstream-1.4.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/josej/Desktop/eclipse/ControleDePagamentosEscola/xstream-benchmark-1.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
